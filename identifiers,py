@@ -1,0 +1,19 @@
+# file name  capital letter s start nhi hona chahie aur space nhi hona chahie beech m 
+
+x=10
+print(x)
+X=11
+print(X)
+_x=12
+
+print(_x)
+print(x,X,_x)
+# 3. case sensitive
+Name="aayu"
+# NameError: name 'name' is not defined. Did you mean: 'Name'? if we put name in print
+print(Name)
+
+# combinations are allowed 
+_abcd=100
+
+print(_abcd)
