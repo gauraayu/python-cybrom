@@ -1,0 +1,6 @@
+d1={'name':'aayu','age':25 ,'qualification':'M.tech'}
+print(d1)
+print(type(d1))
+d2={'name':'aayu','age':25 ,'qualification':'M.tech'}
+print(d2)
+print(id(d1),id(d2))
