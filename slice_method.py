@@ -17,7 +17,7 @@ print(s3[::-1])  #kisi b collectn ko reverse krne ka y slice hota h
 
 # empty o/p
 s4='i love python'
-print(s4[-1:-2:2])  # yhn 2 lia    
-
+print(s4[-1:-2:2])  # yhn 2 lia    mtlb 2 units chorkr print krna h 
+# 
 s5='i love python'
 print(s5[:-2:-2])
