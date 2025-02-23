@@ -10,7 +10,7 @@ print(id(l1))
 
 
 # immutable datatypes
-# immu
+
 
 l1=[10,20,30]
 l2=[10,20,30]
