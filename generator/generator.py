@@ -4,6 +4,7 @@ x=first()
 print(x) #o/p hello  in case of return
 
 # USING YIELD 
+# yield is only used in generator
 def first():
     yield 1
     yield 2
@@ -15,6 +16,13 @@ print("hi")
 print("hello")
 print("welcome")
 print(next(x))
+print("hello")
+print("welcome")
+print(next(x))
+# THIS WILL GIVE ERROR
+# print("hello")
+# print("welcome")
+# print(next(x))
 
 
 
