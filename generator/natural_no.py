@@ -3,7 +3,7 @@ def natural_no(x):
     while i<=x:
         yield i
         i=i+1
-n=print
+n=int(input("enter a no."))
 p=natural_no(n)
 #print(p)
 # print(list(p))
