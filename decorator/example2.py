@@ -8,6 +8,7 @@ def outer_fun(new):
 @outer_fun
 def new(x,y):
     return x+y
+    # input
 p=int(input("enter a no."))
 q=int(input("enter a no."))
 new(p,q)
