@@ -8,3 +8,4 @@ class S:
 # obj.display()    
 obj=S()   
 obj.display()
+print(id(obj))
