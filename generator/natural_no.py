@@ -10,4 +10,4 @@ p=natural_no(n)
 print(next(p)) #o/p=1
 print(next(p))  #o/p=2
 for i in p:
-    print(i) #o/p=3  
+    print(i) #o/p=3  hdjfi
